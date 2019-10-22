@@ -1,0 +1,13 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title> Williamsburg Square / Ashton Place Community Home Page</title>
+</head>
+<link rel="icon shortcut" href="Frames/Figures/favicon.ico">
+<frameset framespacing="0" rows="200,100,*" frameborder="0">
+	<frame name="header" src="Frames/header.html">
+	<frame name="topNav" src="Frames/topNav.html">
+	<frame name="content" src="Frames/home.html" marginheight="0" marginwidth="0" scrolling="auto" noresize>
+</frameset>
+</html>
