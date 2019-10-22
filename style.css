@@ -87,7 +87,7 @@
 .profile-pic .img-box img
 {
 	filter: grayscale(1);
-	width: 150px;
+	width: 100px;
 	border-radius: 50%;
 }
 
@@ -223,7 +223,6 @@
 	background-size: cover;
 	background-position: center;
 	color: #efefef;
-	background-attachment: fixed;
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
